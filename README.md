@@ -2,6 +2,7 @@
 
 ### Actualmente me encuentro estudiando el master en desarrollo FullStack y Blockchain en la academia ConquerBlocks.
 <br>
+
 ## Tecnologias aprendidas a nivel de Junior :
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
