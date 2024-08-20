@@ -17,7 +17,7 @@ Sin más, me despido. Muchas gracias por dedicar un poco de tu tiempo a visitar 
 
 ## Contacta conmigo
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-garcía-lópez-0314642b9) [![Email](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](frangarcia3021@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-garcía-lópez-0314642b9) [![Email](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:frangarcia3021@gmail.com)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 ### Actualmente tengo los siguientes conocimientos:
