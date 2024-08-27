@@ -7,7 +7,7 @@
 ## Sobre mí
 Hola! Encantado de tenerte por aquí. 😀 Me llamo Francisco García.
 
-En mayo de 2023, inicié esta gran aventura de aprender desarrollo web (antes ya había estudiado de forma autodidacta) de la mano de ConquerX. Actualmente, me he centrado sobre todo en la parte Front-end, aunque también he estudiado Python, ya que es un lenguaje que me gusta mucho, especialmente por su sintaxis tan legible.
+En mayo de 2023, inicié esta gran aventura de aprender desarrollo web (antes ya había estudiado de forma autodidacta) de la mano de ConquerBlocks. Actualmente, me he centrado sobre todo en la parte Front-end, aunque también he estudiado Python, ya que es un lenguaje que me gusta mucho, especialmente por su sintaxis tan legible.
 
 Estoy buscando oportunidades o colaboraciones para entrar en el mundo laboral de la tecnología, principalmente en Front-end. Sin embargo, si necesito adaptarme o aprender algo nuevo, lo hago sin problema, siempre con muchas ganas y entusiasmo.
 
