@@ -5,7 +5,7 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px> 
 
 ## Sobre mí
-Desarrollador Web Front-end en búsqueda de nuevas oportunidades
+Desarrollador Web en búsqueda de nuevas oportunidades
 
 Mi nombre es Francisco García, y desde mayo de 2023, me embarqué en el emocionante camino del desarrollo web a través de ConquerBlocks. Aunque ya había iniciado mi formación de manera autodidacta, ahora me he especializado en Front-end, utilizando tecnologías como HTML, CSS y JavaScript. También he estudiado Python, un lenguaje que me apasiona por su sintaxis clara y su versatilidad en diferentes campos.
 
