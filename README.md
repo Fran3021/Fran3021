@@ -5,7 +5,7 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px> 
 
 ## About me
-##### I'm a web developer with a strong passion for technology, innovation, and continuous learning. I enjoy building projects that solve real-world problems and I'm always open to exploring new tools and frameworks. Let's connect and create something amazing together!
+### I'm a web developer with a strong passion for technology, innovation, and continuous learning. I enjoy building projects that solve real-world problems and I'm always open to exploring new tools and frameworks. Let's connect and create something amazing together!
 
 
 ## Projects
