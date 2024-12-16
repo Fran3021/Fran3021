@@ -22,6 +22,9 @@
         <td>
             <a href="https://github.com/Fran3021/Header-projects">Header projects</a>
         </td>
+        <td>
+            <a href="https://github.com/Fran3021/Footer-projects">Footer projects</a>
+        </td>
     </tr>
 </table>
 
