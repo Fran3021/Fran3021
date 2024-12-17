@@ -25,6 +25,9 @@
         <td>
             <a href="https://github.com/Fran3021/Footer-projects">Footer projects</a>
         </td>
+        <td>
+            <a href="https://github.com/Fran3021/GameBoy-PIKACHU-edition">GameBoy PIKACHU edition</a>a
+        </td>
     </tr>
 </table>
 
