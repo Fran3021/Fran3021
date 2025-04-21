@@ -10,7 +10,7 @@
 
 ## Projects
 
-#### Click on the one you want to see to be taken directly to the repository.
+#### Click on the one you want to see.
 <table>
     <tr>
         <td>
