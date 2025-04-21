@@ -22,6 +22,8 @@
         <td>
             <a href="https://github.com/Fran3021/Hangman-game">Hangman game</a>
         </td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/Fran3021/Header-projects">Header projects</a>
         </td>
