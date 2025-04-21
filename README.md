@@ -14,6 +14,9 @@
 <table>
     <tr>
         <td>
+            <a href="https://stellarblade.frangarciadev.com/">AppWeb Stellar Blade</a>
+         </td>
+        <td>
             <a href="https://github.com/Fran3021/Layout-projects">Layout projects</a>
          </td>
         <td>
@@ -39,5 +42,5 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,git,github,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,git,github,python,mysql,django)](https://skillicons.dev)
 
