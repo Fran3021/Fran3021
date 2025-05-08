@@ -14,10 +14,10 @@
 <table>
     <tr>
         <td width="400">
-            <a href="https://stellarblade.frangarciadev.com/"><img src="/images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade" style="height: 300px; width: 100%; object-fit: cover;"></a>
+            <a href="https://stellarblade.frangarciadev.com/"><img src="/images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade" style="width: 300px; height: 200px; object-fit: cover; display: block;"></a>
         </td>
         <td width="400">
-            <a href="https://fran3021.github.io/GameBoy-Pikachu-CSS/"><img src="/images/imagen-gameboy.png" alt="imagen-gameboy" style="height: 300px; width: 100%; object-fit: cover;"></a>
+            <a href="https://fran3021.github.io/GameBoy-Pikachu-CSS/"><img src="/images/imagen-gameboy.png" alt="imagen-gameboy" style="width: 300px; height: 200px; object-fit: cover; display: block;"></a>
         </td>
     </tr>
 </table>
