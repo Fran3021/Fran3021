@@ -15,6 +15,7 @@
     <tr>
         <td>
             <a href="https://stellarblade.frangarciadev.com/">AppWeb Stellar Blade</a>
+            <img src="/images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade">
          </td>
     </tr>
 </table>
