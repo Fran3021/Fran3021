@@ -1,11 +1,11 @@
-<h1 align="center"><b>Hi, I'm Francisco Garcia! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>¡Hola!, Soy Francisco Garcia! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer)](https://git.io/typing-svg)
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px> 
 
-## About me
-### I'm a web developer with a strong passion for technology, innovation, and continuous learning. I enjoy building projects that solve real-world problems and I'm always open to exploring new tools and frameworks. Let's connect and create something amazing together!
+## Sobre mí
+### Desarrollador web con una gran pasión por mi trabajo. Me considero una persona proactiva y que puede aportar mucho a una empresa. Veo en el desarrollo , la herramienta perfecta para facilitar a las personas su vida diaria. Estoy en constante aprendizaje. Trabajo bien en equipo, soy una persona con mucha adaptabilidad, comunicativa y que, ante los problemas, siempre ve una oportunidad de aprendizaje. Si desea ver los proyectos que he realizado, no dude en visitar mi perfil de GitHub o mi portafolio personal.
 
 
 ## Projects
