@@ -11,7 +11,7 @@
 ## Proyectos destacados
 
 #### Haz click en el que desee ver.
-<table>
+<table width="100%">
     <tr>
         <td>
             <a href="https://stellarblade.frangarciadev.com/"><img src="/images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade" style="width: 350px; height: 350px; object-fit: cover; display: block;"></a>
