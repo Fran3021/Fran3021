@@ -11,13 +11,13 @@
 ## Proyectos destacados
 
 #### Haz click en el que desee ver.
-<table width="100%">
+<table>
     <tr>
         <td>
-            <a href="https://stellarblade.frangarciadev.com/"><img src="/images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade" style="width: 350px; height: 350px; object-fit: cover; display: block;"></a>
+            <a href="https://stellarblade.frangarciadev.com/"><img src="/images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade" style="width: 400px; height: 350px; object-fit: cover; display: block;"></a>
         </td>
         <td>
-            <a href="https://fran3021.github.io/GameBoy-Pikachu-CSS/"><img src="/images/imagen-gameboy.png" alt="imagen-gameboy" style="width: 350px; height: 350px; object-fit: cover; display: block;"></a>
+            <a href="https://fran3021.github.io/GameBoy-Pikachu-CSS/"><img src="/images/imagen-gameboy.png" alt="imagen-gameboy" style="width: 400px; height: 350px; object-fit: cover; display: block;"></a>
         </td>
     </tr>
 </table>
