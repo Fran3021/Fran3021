@@ -13,10 +13,10 @@
 #### Haz click en el que desee ver.
 <table>
     <tr>
-        <td width="300">
+        <td width="400">
             <a href="https://stellarblade.frangarciadev.com/"><img src="/images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade" style="height: 300px; width: 100%; object-fit: cover;"></a>
         </td>
-        <td width="300">
+        <td width="400">
             <a href="https://fran3021.github.io/GameBoy-Pikachu-CSS/"><img src="/images/imagen-gameboy.png" alt="imagen-gameboy" style="height: 300px; width: 100%; object-fit: cover;"></a>
         </td>
     </tr>
