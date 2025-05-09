@@ -26,7 +26,7 @@
     </tr>
 </table>
 
-## Contactame
+## Contáctame
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fran-garc%C3%ADa-0314642b9/) [![Email](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:contacto@frangarciadev.com)
 
