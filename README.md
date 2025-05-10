@@ -14,13 +14,11 @@
 <table>
     <tr>
         <td>
-            <a href="https://stellarblade.frangarciadev.com/"><img src="images/web-stellar-blade.png" alt="imagen-stellar-blade" style="width: 100%; height: 400px;"></a>
+            <a href="https://stellarblade.frangarciadev.com/"><img src="images/web-stellar-blade.png" alt="imagen-stellar-blade" style="width: 100%;"></a>
             <p>Red social inspirada en el videojuego Stellar Blade, creada con Python y Django, utilizando SQL para la base de datos. He usado Sass para los estilos y he incorporado JavaScript para mejorar la experiencia del usuario.</p>
         </td>
-    </tr>
-    <tr>
         <td>
-            <a href="https://fran3021.github.io/GameBoy-Pikachu-CSS/"><img src="images/game-pikachu-edition.png" alt="imagen-gameboy" style="width: 100%; height: 400px;"></a>
+            <a href="https://fran3021.github.io/GameBoy-Pikachu-CSS/"><img src="images/game-pikachu-edition.png" alt="imagen-gameboy" style="width: 100%;"></a>
             <p>Game Boy Color edición Pikachu, que muestra datos de Pokémon en pantalla mediante conexión a la PokeAPI. Permite consultar información en tiempo real sobre diferentes Pokémon, simulando la interfaz clásica de la consola</p>
         </td>
     </tr>
