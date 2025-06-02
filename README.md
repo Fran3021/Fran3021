@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://cafeteriaelrocio.frangarciadev.com/"><img src="images/cafeteria-el-rocio.png" alt="imagen-gameboy" style="width: 100%;"></a>
+            <a href="https://cafeteriaelrocio.frangarciadev.com/"><img src="images/cafeteria-el-rocio.png" alt="imagen-cafeteria" style="width: 100%;"></a>
             <p>Web realizada con WordPress y Elementor, donde se simula una cafetería. En el sitio se pueden ver algunos productos del menú, realizar reservas, contactar con la cafetería y consultar una breve información sobre ella. La página está totalmente adaptada a diferentes resoluciones.</p>
         </td>
     </tr>
