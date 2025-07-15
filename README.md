@@ -37,9 +37,12 @@ Una red social inspirada en el videojuego *Stellar Blade*, desarrollada con **Py
 - Mensajería privada (sin WebSockets)
 - Interfaz responsive con Sass + JavaScript + AJAX
 <div align='center'>
-    <img src="/images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade" style="width: 800px; height: 350px; object-fit: cover; display: block; margin-bottom:20px;">
+
+[🌌Enlace a la web](https://stellarblade.frangarciadev.com/es/)
 
 📂 [Ver repositorio en GitHub](https://github.com/Fran3021/app-stellar-blade)
+
+<img src="/images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade" style="width: 800px; height: 350px; object-fit: cover; display: block;">
 </div>
 
 
