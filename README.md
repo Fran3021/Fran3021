@@ -37,13 +37,20 @@ Una red social inspirada en el videojuego *Stellar Blade*, desarrollada con **Py
 - Mensajería privada (sin WebSockets)
 - Interfaz responsive con Sass + JavaScript + AJAX
 
-🔗 Código fuente disponible en mis repositorios.
+📂 [Ver repositorio en GitHub](https://github.com/Fran3021/app-stellar-blade)
 
 ---
 
 ## 🎓 Formación
 
 - 🧠 Máster en Desarrollo Web Fullstack – *ConquerBlocks* (2023 – Presente)  
+
+> 📚 Aprendizaje continuo a través de múltiples fuentes especializadas del sector, incluyendo canales de YouTube de reconocidos referentes como Midudev y MoureDev, así como desafíos técnicos como el 30 Days of JavaScript Challenge en GitHub.  
+Complemento esta formación con el contenido de FreeCodeCamp, estudio guiado por
+documentación oficial, y el uso de herramientas de inteligencia artificial como ChatGPT y similares,
+aplicadas tanto como soporte de aprendizaje, como para la optimización de procesos y productividad
+personal.
+
 
 ---
 
@@ -58,14 +65,6 @@ Una red social inspirada en el videojuego *Stellar Blade*, desarrollada con **Py
 
 - 🌐 Portafolio: [www.frangarciadev.com](https://www.frangarciadev.com)  
 - 📧 Email: contacto@frangarciadev.com  
-
----
-
-> 📚 Aprendizaje continuo a través de múltiples fuentes especializadas del sector, incluyendo canales de YouTube de reconocidos referentes como Midudev y MoureDev, así como desafíos técnicos como el 30 Days of JavaScript Challenge en GitHub.  
-Complemento esta formación con el contenido de FreeCodeCamp, estudio guiado por
-documentación oficial, y el uso de herramientas de inteligencia artificial como ChatGPT y similares,
-aplicadas tanto como soporte de aprendizaje, como para la optimización de procesos y productividad
-personal.
 
 ---
 
