@@ -1,43 +1,90 @@
-<h1 align="center"><b>¡Hola! Soy Francisco Garcia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 ¡Hola! Soy Francisco García
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Web)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Antonio+García&lines=Desarrollador+Web+Fullstack&font=Fira+Code&pause=1500&color=FF4500&center=true&width=400&height=80)](https://git.io/typing-svg)
 
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px> 
+Soy un desarrollador web **Fullstack** apasionado por el aprendizaje constante y la creación de soluciones que hagan la vida más fácil a las personas. Me encanta desarrollar proyectos desde cero, cuidar los detalles y enfrentar nuevos retos que me permitan mejorar profesional y personalmente.
 
-## Sobre mí
-### Desarrollador web con una gran pasión por mi trabajo. Me considero una persona proactiva y que puede aportar mucho a una empresa. Veo en el desarrollo , la herramienta perfecta para facilitar a las personas su vida diaria. Estoy en constante aprendizaje. Trabajo bien en equipo, soy una persona con mucha adaptabilidad, comunicativa y que, ante los problemas, siempre ve una oportunidad de aprendizaje. Si desea ver los proyectos que he realizado, no dude en visitar mi portafolio personal <a href="https://www.frangarciadev.com/">aqui</a>
+---
+
+## 🧰 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,python,mysql)](https://skillicons.dev)
+
+---
+
+## 🧰 Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,linux)](https://skillicons.dev)
+
+---
+
+## 🧰 Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=django,wordpress)](https://skillicons.dev)
+
+---
+
+## 🚀 Proyecto destacado
+
+### [🌌 Stellar Blade Social Web](https://stellarblade.frangarciadev.com/es/)
+
+Una red social inspirada en el videojuego *Stellar Blade*, desarrollada con **Python** y **Django**. Este proyecto incluye:
+
+- Sistema de publicaciones, edición y borrado
+- Comentarios y respuestas
+- Likes, seguidores y buscador por palabras clave
+- Notificaciones en el navegador
+- Mensajería privada (sin WebSockets)
+- Interfaz responsive con Sass + JavaScript + AJAX
+
+🔗 Código fuente disponible en mis repositorios.
+
+---
+
+## 🎓 Formación
+
+- 🧠 Máster en Desarrollo Web Fullstack – *ConquerBlocks* (2023 – Presente)  
+
+---
+
+## 🌍 Idiomas
+
+- Español: Nativo  
+- Inglés: B1 técnico
+
+---
+
+## 📫 Contacto
+
+- 🌐 Portafolio: [www.frangarciadev.com](https://www.frangarciadev.com)  
+- 📧 Email: contacto@frangarciadev.com  
+
+---
+
+> 📚 Aprendizaje continuo a través de múltiples fuentes especializadas del sector, incluyendo canales de YouTube de reconocidos referentes como Midudev y MoureDev, así como desafíos técnicos como el 30 Days of JavaScript Challenge en GitHub.  
+Complemento esta formación con el contenido de FreeCodeCamp, estudio guiado por
+documentación oficial, y el uso de herramientas de inteligencia artificial como ChatGPT y similares,
+aplicadas tanto como soporte de aprendizaje, como para la optimización de procesos y productividad
+personal.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fran3021&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Fran3021&theme=dark&hide_border=true)
 
 
-## Proyectos destacados
 
-#### Haz click en el que desee ver.
-<table>
-    <tr>
-        <td>
-            <a href="https://stellarblade.frangarciadev.com/"><img src="images/imagen-proyecto-stellar-blade.png" alt="imagen-stellar-blade" style="width: 100%;"></a>
-            <p>Red social inspirada en el videojuego Stellar Blade, creada con Python y Django, utilizando SQL para la base de datos. He usado Sass para los estilos y he incorporado JavaScript para mejorar la experiencia del usuario.</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://fran3021.github.io/GameBoy-Pikachu-CSS/"><img src="images/game-boy.png" alt="imagen-gameboy" style="width: 100%;"></a>
-            <p>Game Boy Color edición Pikachu, que muestra datos de Pokémon en pantalla mediante conexión a la PokeAPI. Permite consultar información en tiempo real sobre diferentes Pokémon, simulando la interfaz clásica de la consola</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://cafeteriaelrocio.frangarciadev.com/"><img src="images/cafeteria-el-rocio.png" alt="imagen-cafeteria" style="width: 100%;"></a>
-            <p>Web realizada con WordPress y Elementor, donde se simula una cafetería. En el sitio se pueden ver algunos productos del menú, realizar reservas, contactar con la cafetería y consultar una breve información sobre ella. La página está totalmente adaptada a diferentes resoluciones.</p>
-        </td>
-    </tr>
-</table>
+</div>
 
-## Contáctame
+---
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fran-garc%C3%ADa-0314642b9/) [![Email](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:contacto@frangarciadev.com)
+## 🤝 Estoy buscando...
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+Mi primera oportunidad como **desarrollador web junior**. Si tienes un equipo donde pueda aprender, aportar y crecer, ¡estaré encantado de hablar contigo!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,git,github,python,mysql,django)](https://skillicons.dev)
 
 
