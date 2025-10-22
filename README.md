@@ -26,7 +26,7 @@ Soy un desarrollador web **Fullstack** apasionado por el aprendizaje constante y
 
 ## 🚀 Proyecto destacado
 
-### [🌌 Stellar Blade Social Web](https://stellarblade.frangarciadev.com/es/)
+### 🌌 Stellar Blade Social Web
 
 Una red social inspirada en el videojuego *Stellar Blade*, desarrollada con **Python** y **Django**. Este proyecto incluye:
 
@@ -37,8 +37,6 @@ Una red social inspirada en el videojuego *Stellar Blade*, desarrollada con **Py
 - Mensajería privada (sin WebSockets)
 - Interfaz responsive con Sass + JavaScript + AJAX
 <div align='center'>
-
-[🌌Enlace a la web](https://stellarblade.frangarciadev.com/es/)
 
 📂 [Ver repositorio en GitHub](https://github.com/Fran3021/app-stellar-blade)
 
@@ -70,8 +68,8 @@ personal.
 
 ## 📫 Contacto
 
-- 🌐 Portafolio: [www.frangarciadev.com](https://www.frangarciadev.com)  
-- 📧 Email: contacto@frangarciadev.com  
+- 🌐 Portafolio: [Mi portafolio](https://fran3021.github.io/portfolio/)  
+- 📧 Email: contacto@frangarciadev.com 
 
 ---
 
@@ -90,7 +88,7 @@ personal.
 
 ## 🤝 Estoy buscando...
 
-Mi primera oportunidad como **desarrollador web junior**. Si tienes un equipo donde pueda aprender, aportar y crecer, ¡estaré encantado de hablar contigo!
+Una oportunidad como **desarrollador web junior**. Si tienes un equipo donde pueda aprender, aportar y crecer, ¡estaré encantado de hablar contigo!
 
 
 
